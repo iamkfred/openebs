@@ -17,7 +17,7 @@ The following procedure helps you setup and use OpenEBS on a local machine:
 2. Download OpenEBS Vagrant file using the following command.
 ::
 
-    $ wget https://raw.githubusercontent.com/openebs/openebs/master/k8s/lib/vagrant/test/k8s/1.6/Vagrantfile
+    $ wget https://raw.githubusercontent.com/openebs/openebs/master/k8s/vagrant/1.7.5/Vagrantfile
 
 3. Bring up k8s Cluster.
 ::
